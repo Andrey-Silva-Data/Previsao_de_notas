@@ -19,12 +19,19 @@ Este exemplo pode ser aplicado em previsão de preços e tendências.
 - ✅ Fazer o modelo aprender com os dados históricos 
 ---
 ## 📂 Estrutura do Projeto
+
 📁 nome-do-projeto
+
 ├── 📄 README.md <- Documentação do projeto
+
 ├── 📄 requirements.txt <- Dependências do Python
+
 ├── 📄 main.py <- Script principal
+
 ├── 📁 data/ <- Base de dados utilizada
+
 ├── 📁 notebooks/ <- Jupyter Notebooks de exploração
+
 └── 📁 src/ <- Código-fonte organizado
 
 ## 📊 Resultados
