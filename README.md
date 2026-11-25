@@ -47,4 +47,4 @@ Este exemplo pode ser aplicado em previsão de preços e tendências.
 ---
 
 ## 📜 Licença
-© 2025 Andrey Silva - Todos os direitos reservados.
+© 2026 Andrey Silva - Todos os direitos reservados.
