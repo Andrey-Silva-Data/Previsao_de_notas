@@ -41,7 +41,7 @@ Este exemplo pode ser aplicado em previsão de preços e tendências.
 
 ---
 ## 📎 Links Importantes
-- 🔗 **Portfólio:** https://andrey-silva-data.github.io/MeuPortf-lio-AndreySilva/
+- 🔗 **Portfólio:** https://andrey-silva-data.github.io/portfolio-oficial-andrey/
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/techprofessional-AndreySilva/ 
 - 🔗 **GitHub:** https://github.com/Andrey-Silva-Data
 ---
